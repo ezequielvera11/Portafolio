@@ -1,0 +1,34 @@
+body {
+    background-color: rgb(124, 193, 240);
+    padding: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+div {
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 10px;
+    margin-top: 40px;
+    justify-content: center;
+}
+img {
+    margin-right: 10px;
+    margin-top: 17px ;
+    margin-left: 10px;
+    float: left;
+}
+.redirects {
+    margin-left: 140px;
+}
+.redirects a{
+    color:black;
+}
+.espacio {
+    margin-top: 20px;
+}
+#perfil a{
+    color: rgb(65, 65, 245);
+}
+#introducción {
+    font-size: large;
+}
